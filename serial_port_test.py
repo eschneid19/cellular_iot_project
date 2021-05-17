@@ -1,5 +1,4 @@
 """
-Created 6/29/2020
 By Erik Schneider
 Testing pyserial and AT commands
 """
